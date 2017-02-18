@@ -5,7 +5,7 @@ using MaterialSkin.Controls;
 using MaterialSkin;
 using System.Diagnostics;
 
-namespace MicControl
+namespace IronShell
 {
     public partial class formSettings : MaterialForm
     {

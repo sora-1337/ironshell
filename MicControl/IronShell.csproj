@@ -7,8 +7,8 @@
     <ProjectGuid>{BB907963-DCC8-4A24-BE81-4883F9064761}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MicControl</RootNamespace>
-    <AssemblyName>MicControl</AssemblyName>
+    <RootNamespace>IronShell</RootNamespace>
+    <AssemblyName>IronShell</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
@@ -146,7 +146,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="MicControl_TemporaryKey.pfx" />
+    <None Include="IronShell_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

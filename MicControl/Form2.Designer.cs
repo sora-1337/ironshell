@@ -1,4 +1,4 @@
-﻿namespace MicControl
+﻿namespace IronShell
 {
     partial class formSettings
     {

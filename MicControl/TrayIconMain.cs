@@ -11,9 +11,9 @@ using System.Runtime.InteropServices;
 using NAudio.Wave;
 using NAudio.Mixer;
 using System.Reflection;
-using MicControl.Properties;
+using IronShell.Properties;
 
-namespace MicControl
+namespace IronShell
 {
     public class MicControlTray : Form
     {
