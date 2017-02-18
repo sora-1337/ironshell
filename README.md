@@ -4,7 +4,7 @@ Small application to override trash programs that try to fuck with your mic (Sky
 Yes thats the repo description, because thats exactly what it does.
 (Basically it just forces your mic volume to a specific level you can set yourself.)
 ## Download
-[Download](https://www.dropbox.com/s/9y3yrfo9twtjvs5/IronShell_18022017.zip?dl=0)
+[Download](https://www.dropbox.com/s/9y3yrfo9twtjvs5/IronShell_18022017.zip?dl=1)
 
 # How do I set this up?
 1. Because you are as lazy as I am, and don't want to do any fancy extra work, just download the finished pre-compiled exe off my dropbox.
